@@ -44,11 +44,11 @@ ex data output :
 
 (if remove // befor Password from php file )
 
-https://vp7.us/apps_/Zdc:hY/test/2.php
+https://vp7.us/apps_/ZdchY/test/2.php
 
 (without remove password // befor Password from php file )
 
-https://vp7.us/apps_/Zdc:hY/test/1.php
+https://vp7.us/apps_/ZdchY/test/1.php
 
 
 
